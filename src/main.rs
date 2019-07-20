@@ -67,7 +67,7 @@ fn main() {
 //     let (sender, receiver) = mpsc::channel();
 
 //     thread::spawn(move || {
-//         let thread_now = Instant::now()
+//         let thread_now = Instant::now();
 //         for ingredient in 0..ingredients.len() {
 
 //             let chopped = cook(&ingredients[ingredient], &sender).expect("something went very, very wrong");

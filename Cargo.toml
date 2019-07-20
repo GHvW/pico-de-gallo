@@ -1,0 +1,7 @@
+[package]
+name = "pico_de_gallo"
+version = "0.1.0"
+authors = ["Garrett van Wageningen <ghvanw283@gmail.com>"]
+edition = "2018"
+
+[dependencies]
